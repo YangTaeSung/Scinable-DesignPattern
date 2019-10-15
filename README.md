@@ -1,16 +1,16 @@
 # Head First Design Patterns
 
-### 개요
+## 개요
 Practice and description design patterns using Java
 ***
-### 목차
-#### 객체지향 원칙
-#### 1. Strategy Pattern
-#### 2. Observer Pattern
-#### 3. Decorator Pattern
-#### 4. Factory pattern
+## 목차
+### 객체지향 원칙
+### 1. Strategy Pattern
+### 2. Observer Pattern
+### 3. Decorator Pattern
+### 4. Factory pattern
 ***
-#### 객체지향 원칙
+### 객체지향 원칙
 -	바뀌는 부분은 캡슐화한다.
 -	상속보다는 구성을 활용한다.
 -	구현이 아닌 인터페이스에 맞춰서 프로그래밍한다.
@@ -18,7 +18,7 @@ Practice and description design patterns using Java
 -	클래스는 확장에 대해서는 열려 있지만 변경에 대해서는 닫혀 있어야 한다.
 -	추상화된 것에 의존하라. 구상 클래스에 의존하지 않도록 한다.
 ***
-#### 1. Strategy Pattern
+### 1. Strategy Pattern
 ##### 스트래티지 패턴
 스트래티지 패턴에서는 알고리즘군을 정의하고 각각을 캡슐화하여 교환해서 사용할 수 있도록 만든다. 스트래티지를 활용하면 알고리즘을 사용하는 클라이언트와는 독립적으로 알고리즘을 변경할 수 있다.
 ##### 디자인 원칙
