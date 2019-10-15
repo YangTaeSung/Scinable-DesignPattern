@@ -1,7 +1,7 @@
 # Head First Design Patterns
 
 ## 개요
-Practice and description design patterns using Java
+Practice and description design patterns using Java - Working in Scinable(Overseas Internship)
 ## 목차
 ### 객체지향 원칙
 ### 1. Strategy Pattern
