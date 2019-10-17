@@ -9,6 +9,7 @@ Practice and description design patterns using Java - Working in Scinable(Overse
 ### 3. Decorator Pattern
 ### 4. Factory Pattern
 ### 5. Singleton Pattern
+### 6. Command Pattern
 ***
 ### 객체지향 원칙
 -	바뀌는 부분은 캡슐화한다.
@@ -135,6 +136,6 @@ Java.io.API 문서도 데코레이터 패턴으로 구성
 다중 스레드를 사용하는 애플리케이션에서는 속도와 자원 문제를 파악해보고 적절한 구현법을 사용해야 한다.(사실 모든 애플리케이션에서 멀티스레딩을 쓸 수 있다고 생각해야 한다.)  
 클래스 로더가 여러 개 있으면 싱글턴이 제대로 작동하지 않고, 여러개의 인스턴스가 생길 수 있다.
 
-
+### 6. Command Pattern
 
 
